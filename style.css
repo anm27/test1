@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.d-flex {
+    display: flex;
+}
+
+/* Colors */
+
+.text-primary-color{
+    color: #5f6368;
+}
+
+.c-fff {
+    color: #fff;
+}
+
+.bg-c-blue{
+    background-color: #1a73e8;
+}
+
+.c-blue {
+    color: #1a73e8;
+}
+/* ---------- */
+
+/* Font Size */
+
+.fs-22 {
+    font-size: 22px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-14 {
+    font-size: 16px;
+}
+
+.fs-3rem {
+    font-size: 2.75rem;
+}
+
+/* ---------- */
+
+/* Font-weight */
+
+.fw-100 {
+    font-weight: 100;
+}
+
+.fw-300 {
+    font-weight: 300;
+}
+
+.fw-400 {
+    font-weight: 400;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+/* ---------- */
+
+/* Paddings */
+
+.pt-6 {
+    padding-top: 6px;
+}
+
+.p-14 {
+    padding: 14px;
+}
+
+.p-l-12{
+    padding-left: 12%;
+}
+
+.p-l-5{
+    padding-left: 5%;
+}
+
+.p-l-36 {
+    padding-left: 36px;
+}
+
+.p-l-9rem {
+    padding-left: 9rem;
+}
+
+.p-all {
+    padding-top: 7px;
+    padding-left: 7px;
+    padding-bottom: 7px;
+    padding-right: 0px;
+}
+
+.p-t-34 {
+    padding-top: 34px;
+}
+
+
+/* Width */
+
+.w-50 {
+    width: 50%;
+}
+
+.w-68 {
+    width: 68%;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+.w-14 {
+    width: 14%;
+}
+
+.w-10 {
+    width: 10%;
+}
+
+.w-8{
+    width: 8%;
+}
+
+/* --------- */
+
+/* Height */
+
+.h-20 {
+    height: 20vh;
+}
+
+.h-80 {
+    height: 80vh;
+}
+/* --------- */
+
+/* Text */
+
+.text-align-end {
+    text-align: end;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+/* --------- */
+
+/* Flex */
+
+.gap-20 {
+    gap: 20px;
+}
+
+.justify-content-end {
+    justify-content: end;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+/* --------- */
+
+
+/* Shifting */
+
+.transform-y-3 {
+    transform: translateY(3px);
+}
+
+.transform-y-7 {
+    transform: translateY(7px);
+}
+
+/* --------- */
+
+/* Alignment */
+
+.align-center {
+    align-items: center;
+}
+
+/* --------- */
+
+/* Borders */
+
+.border-none {
+    border: none;
+}
+
+/* --------- */
+
+
+.btn {
+    padding: 14px 18px;
+    border-radius: 6px;
+}
+
+.meet {
+    padding: 2px 3px;
+}
